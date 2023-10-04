@@ -1,0 +1,17 @@
+OpenAI response for Prompt: Javed using AI write a letter to change my account number 
+****************************************
+
+
+
+Dear [Name],
+
+I am writing to notify you that I would like to change my account number. 
+
+I am currently using the account with the number [Old Account Number], and I would like to switch to a new one. 
+
+I understand that this change could affect any existing payments I am receiving, so please let me know what steps I need to take to ensure that I receive all payments without interruption. 
+
+I appreciate your prompt attention to this request, and I look forward to hearing from you soon.
+
+Sincerely,
+[Your Name]
